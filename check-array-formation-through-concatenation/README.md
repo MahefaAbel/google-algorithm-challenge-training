@@ -46,8 +46,8 @@ Return  `true`  _if it is possible_ _to form the array_ `arr` _from_ `pieces`. O
 
 ## Hints
 
-**Hint #1**
+**Hint #1**\
 Note that the distinct part means that every position in the array belongs to only one piece
 
-**Hint #2**
+**Hint #2**\
 Note that you can get the piece every position belongs to naively
