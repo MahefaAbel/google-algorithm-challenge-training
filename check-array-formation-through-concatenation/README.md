@@ -43,3 +43,11 @@ Return  `true`  _if it is possible_ _to form the array_ `arr` _from_ `pieces`. O
 -   `1 <= arr[i], pieces[i][j] <= 100`
 -   The integers in `arr` are  **distinct**.
 -   The integers in `pieces`  are  **distinct** (i.e., If we flatten pieces in a 1D array, all the integers in this array are distinct).
+
+## Hints
+
+**Hint #1**
+Note that the distinct part means that every position in the array belongs to only one piece
+
+**Hint #2**
+Note that you can get the piece every position belongs to naively
